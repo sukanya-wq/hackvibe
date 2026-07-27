@@ -1,4 +1,5 @@
 # 🏆 L'Étoile AI — Next-Gen Smart Restaurant OS (SaaS)
+LIVE DEMO LINK https://hackvibe-nine.vercel.app/
 
 > **VibeAthon 6.0 (Vibe Coding Hackathon) – 2K26 Submission**  
 > **Problem Statement (PS):** Smart Restaurant Management System  
