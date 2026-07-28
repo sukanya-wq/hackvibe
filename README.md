@@ -18,7 +18,7 @@ LIVE DEMO LINK https://hackvibe-nine.vercel.app/
 
 ## 🌐 Project Links & Quick Demo
 
-- **Hosted Application (Live Public URL):** [https://ais-pre-qimhvq3jh4kvfveua7t77k-38039613677.asia-southeast1.run.app](https://ais-pre-qimhvq3jh4kvfveua7t77k-38039613677.asia-southeast1.run.app)
+- 
 - **Deployment Platform:** Vercel / Cloud Run (Vite Single Page Application with zero build errors)
 
 ---
