@@ -7,13 +7,6 @@ LIVE DEMO LINK https://hackvibe-nine.vercel.app/
 
 ---
 
-## 👥 Team Details — **Blue Zone**
-
-| Role | Member Name |
-| :--- | :--- |
-| **Team Leader** | **G. Sukanya Lakshmi** |
-| **Team Member** | **B. Sirisha** |
-
 ---
 
 ## 🌐 Project Links & Quick Demo
